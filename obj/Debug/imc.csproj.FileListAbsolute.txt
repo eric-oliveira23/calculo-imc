@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\imc\bin\Debug\imc.exe.config
+C:\Users\Usuario\source\repos\imc\bin\Debug\imc.exe
+C:\Users\Usuario\source\repos\imc\bin\Debug\imc.pdb
+C:\Users\Usuario\source\repos\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\imc\obj\Debug\imc.exe
+C:\Users\Usuario\source\repos\imc\obj\Debug\imc.pdb
